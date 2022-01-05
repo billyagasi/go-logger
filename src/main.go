@@ -1,7 +1,7 @@
 package main
 
 import (
-	u "github.com/billyagasi/go-logger/src/utils"
+	u "utils"
 )
 
 func main() {
